@@ -38,7 +38,8 @@ price: 15.19 Doller
 
 
 4.four pcs Motor Driver 43A BTS7960
-<img width="1025" height="707" alt="Screenshot 2026-09-26 133820" src="https://github.com/user-attachments/assets/5a502775-6688-435b-921a-c3b414c8aea1" />
+<img width="496" height="563" alt="Screenshot 2026-09-26 133820" src="https://github.com/user-attachments/assets/9cf8c0d5-675f-4015-b106-c91cf13cef71" />
+
 description
 BTS7960 motor driver module controls one DC motor, allowing independent speed and direction control
 price: 3.98 Doller × 4 pcs
@@ -85,7 +86,9 @@ price: 24.99 Doller × 1 pcs
 
 
 
-10.extra tools are a soldering iron and solder, wire strippers, heat shrink, a multimeter, and an XT60 crimper, if you're using those connectors.
+10.extra tools
+description 
+extra tools are a soldering iron and solder, wire strippers, heat shrink, a multimeter, and an XT60 crimper, if you're using those connectors.
 price: 50 Doller 
 
 
