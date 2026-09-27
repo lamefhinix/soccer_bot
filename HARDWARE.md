@@ -14,7 +14,7 @@
 
 
 1. Four pcs 37GB 500 RPM motors
-<img width="1028" height="669" alt="Screenshot 2026-09-26 133015" src="https://github.com/user-attachments/assets/fe455f8f-8dea-423c-8223-c00b33aab48f" />
+<img width="511" height="502" alt="Screenshot 2026-09-26 133015" src="https://github.com/user-attachments/assets/4c755f04-cf00-44d0-9eb3-3504f3af75ff" />
 description
 the motors power the robot's wheels, so it can move and turn quickly during a match
 price: 12.5 Doller × 4 pcs
