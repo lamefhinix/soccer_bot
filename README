@@ -1,1 +1,8 @@
-Soccer Bot is a four-wheel drive robot. It uses four 12-volt 500 RPM motors, motor drivers, a battery system, and a microcontroller to control the robot. It's operated wirelessly using a transmitter and receiver for remote control.
+description
+
+Soccer Bot is a high-performance four-wheel robot built for competitive soccer matches.
+Designed to compete against other powerful robots, it emphasizes power, durability, and precise control.
+It uses 500 RPM geared motors, metal wheels, an ESP32 controller, and BTS7960 motor drivers for strong, responsive movement.
+The aluminum frame provides a durable yet lightweight foundation.
+This project combines mechanical engineering, electronics, wireless control, and software for a reliable, competition-ready soccer robot.
+
