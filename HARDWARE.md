@@ -1,99 +1,55 @@
-  ALL THE HARDEWARE PARTS 
-1. Four pcs 37GB 500 RPM motors
-2. four pcs wheels with metal rims
-3. Aluminum base frame, 20 by 20 centimeters, lightweight and sturdy.
-4. four pcs Motor Driver 43A BTS7960
-5. DC DC Buck Converter LM2596 with Display
-6. ESP32 S3 DevKitC1 N16R8 Development Board Dual USB Type C 18650 
-7. 12V 7000mAh (84Wh) Lithium-ion Rechargeable Battery Pack with 40A BMS
-8. Radiomaster Pocket Radio Controller (M2)
-9.RadioMaster ER6 2.4 GHz ELRS PWM receiver
-10.extra tools
-11. ball-handling mechanismls
+image.pngALL THE HARDWARE PARTS
 
+1.Four pcs 37GB 600 RPM motors
 
+2.four pcs wheels with metal rims
 
-1. Four pcs 37GB 500 RPM motors
-<img width="511" height="502" alt="Screenshot 2026-09-26 133015" src="https://github.com/user-attachments/assets/4c755f04-cf00-44d0-9eb3-3504f3af75ff" />
-description
-the motors power the robot's wheels, so it can move and turn quickly during a match
-price: 12.5 Doller × 4 pcs
-
-
-
-2. Four pcs 65mm Rubber Wheel With Metal rim 
-<img width="321" height="228" alt="image" src="https://github.com/user-attachments/assets/d642ca45-ab18-4ff5-9e4b-2e18dd54564c" />
-description
-Four 65 millimeter metal rim wheels with rubber tires. Provide traction and transfer motor power to the ground for movement and turning.
-price: 12.5 Doller for 4 pcs
-
-
-
-3. Aluminum base frame, 20 by 20 centimeters
-<img width="389" height="301" alt="image" src="https://github.com/user-attachments/assets/cc4225ab-c586-49ce-a341-9107a2a4e1f8" />
-description
-Provides a strong and lightweight platform for mounting the motors, electronics, battery, and other components
-price: 15.19 Doller 
-
-
+3.20x20 cm PVC frame
 
 4.four pcs Motor Driver 43A BTS7960
-<img width="496" height="563" alt="Screenshot 2026-09-26 133820" src="https://github.com/user-attachments/assets/9cf8c0d5-675f-4015-b106-c91cf13cef71" />
-
-description
-BTS7960 motor driver module controls one DC motor, allowing independent speed and direction control
-price: 3.98 Doller × 4 pcs
-
-
 
 5.DC DC Buck Converter LM2596 with Display
-<img width="290" height="268" alt="image" src="https://github.com/user-attachments/assets/9db6dab5-36e1-4adf-b433-2691c6048016" />
-description
-DC-DC buck converter: steps down battery voltage to a stable lower voltage for ESP32 and receiver
-price: 3.17 Doller × 1 pcs
 
+6.ESP32 S3 DevKitC1 N16R8 Development Board Dual USB Type C 18650
 
+7.12V 7000mAh (84Wh) Lithium-ion Rechargeable Battery Pack with 40A BMS
 
-6.12V 7000mAh (84Wh) Lithium-ion Rechargeable Battery Pack with 40A BMS
-<img width="868" height="390" alt="image" src="https://github.com/user-attachments/assets/b450a63e-50cc-4788-ae1f-096bdecd0d52" />
-description
-12 volt 7000 milliamp hour Li-ion rechargeable battery with 40 amp BMS, providing reliable power for robot's motors and electronics
-price: 22.77 Doller × 1 pcs
+8.Radiomaster Pocket Radio Controller (M2) 9.RadioMaster ER6 2.4 GHz ELRS PWM receiver
 
+9.ball-handling mechanisms
 
+10.soldering iron
 
-7. ESP32 S3 DevKitC1 N16R8 Development Board Dual USB Type C
-<img width="430" height="315" alt="Screenshot 2026-09-26 134619" src="https://github.com/user-attachments/assets/089d3402-a237-438a-9173-fc563d5c3f7c" />
-description
-ESP32 DevKit-C1, main control board that processes receiver commands and controls the four BTS7960 motor drivers for precise speed and direction control.
-price: 8.1 Doller × 1 pcs
+1.Four pcs 37GB 600 RPM motors
 
+Screenshot 2026-09-26 133015
+description The motors power the robot's wheels, so it can move and turn quickly during a match Estimated price: 8.95 dollars × 4 pcs Buy link: https://electronics.com.bd/12v-500-rpm-high-torque-dc-gear-motor-37gb555?srsltid=AU7gw4W6xqZXhl5vGK0hU1B7dl2Gg-heIN6U8UVuj4xjIPFl1-etbPAW
 
+2.Four pcs 65mm Rubber Wheel With Metal rimimage
+description Four 65 millimeter metal rim wheels with rubber tires. Provide traction and transfer motor power to the ground for movement and turning. Estimated price: 16.25 dollars Buy link: https://radiogearbd.com/product-details/65mm-rubber-wheel-with-metal-rim-4pcs-set-for-robo-soccer
 
-8.Radiomaster Pocket Radio Controller (M2)
-<img width="527" height="491" alt="image" src="https://github.com/user-attachments/assets/bfb14fa0-b504-4fc7-80c9-0cdf1902ade6" />
-description
-RadioMaster Pocket M2 ELRS, wireless transmitter used to remotely control the robot's movement and speed
-price: 71.50 Doller × 1 pcs
+3.20x20 cm PVC frame self-funded
+4.four pcs of motor driver 43A BTS7960Screenshot 2026-09-26 133820
 
+description BTS7960 motor driver module controls one DC motor, allowing independent speed and direction control Estimated price: 3.98 Doller × 4 pcs Buy link: https://store.roboticsbd.com/imugyrocompass/742-motor-driver-43a-bts7960-robotics-bangladesh.html
 
+5.DC DC Buck Converter LM2596 with Displayimagedescription DC-DC buck converter: steps down battery voltage to a stable lower voltage for ESP32 and receiver Estimated price: 3.17 Doller × 1 pcs Buy link: https://store.roboticsbd.com/components/1524-lm2596-dc-dc-step-down-buck-converter-with-digital-tube-display-robotics-bangladesh.html
 
-9.RadioMaster ER6 2.4 GHz ELRS PWM receiver
-<img width="610" height="407" alt="image" src="https://github.com/user-attachments/assets/28bcec10-c304-416f-a60f-a227f0ba7388" />
-description
-RadioMaster ER6 2.4 GHz ELRS receiver, receives wireless control signals from the RadioMaster Pocket M2 and sends them to the ESP32 to control the robot's movement and speed.
-price: 24.99 Doller × 1 pcs
+6.12V 7000mAh (84Wh) Lithium-ion Rechargeable Battery Pack with 40A BMSimagedescription 12 volt 7000 milliamp hour Li-ion rechargeable battery with 40 amp BMS, providing reliable power for robot's motors and electronics Estimated price: 22.77 Doller × 1 pcs Buy link: https://www.daraz.com.bd/products/12v-7000mah-84wh-lithium-ion-rechargeable-battery-pack-with-40a-bms-1000-life-i328284264.html
 
+7.ESP32 S3 DevKitC1 N16R8 Development Board Dual USB Type CScreenshot 2026-09-26 134619
+description ESP32 DevKit-C1, main control board that processes receiver commands and controls the four BTS7960 motor drivers for precise speed and direction control. Estimated price: 8.1 Doller × 1 pcs Buy link: https://techshopbd.com/product/esp32-s3-devkitc1-n16r8-development-board-dual-usb-type-c
 
+8.Radiomaster Pocket Radio Controller (M2) ELRS Versionimagedescription RadioMaster Pocket M2 ELRS, wireless transmitter used to remotely control the robot's movement and speed Estimated price: 71.50 Doller × 1 pcs Buy link: https://radiomasterrc.com/products/pocket-radio-controller-m2
 
-10.extra tools
-description 
-extra tools are a soldering iron and solder, wire strippers, heat shrink, a multimeter, and an XT60 crimper, if you're using those connectors.
-price: 50 Doller 
+9.ER4 2.4GHz ELRS PWM Receiver
 
+imagedescription RadioMaster ER6 2.4 GHz ELRS receiver, receives wireless control signals from the RadioMaster Pocket M2 and sends them to the ESP32 to control the robot's movement and speed. Estimated price: 14.99 dollars × 1 pcs Buy link: https://radiomasterrc.com/products/er4-2-4ghz-elrs-pwm-receiver
+ball-handling mechanisms self funded
 
+10.WEMON 936 Soldering Iron 90W Intelligent Digital Display Portable 120~550℃ Adjustable 900M Series tools Kit price: 10.00 dollars × 1 pcs
 
-
+Estimated total: 198.51 dollars
 
 
 
