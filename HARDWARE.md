@@ -1,5 +1,4 @@
-image.pngALL THE HARDWARE PARTS
-
+![image.png](https://cdn.hackclub.com/01a0e7ff-fbac-7ae5-86a2-3eb3833e45dc/image.png)
 1.Four pcs 37GB 600 RPM motors
 
 2.four pcs wheels with metal rims
