@@ -1,0 +1,13 @@
+Item,Part / Description,Quantity,Unit,Unit Cost (USD),Line Total (USD),Purchase Link,Notes
+1,37GB DC gear motor - listed as 600 RPM,4,pcs,8.95,35.80,https://electronics.com.bd/12v-500-rpm-high-torque-dc-gear-motor-37gb555?srsltid=AU7gw4W6xqZXhl5vGK0hU1B7dl2Gg-heIN6U8UVuj4xjIPFl1-etbPAW,"Source link title specifies 500 RPM, while project list says 600 RPM; verify required speed before purchase."
+2,65 mm rubber wheel with metal rim,4,pcs,4.0625,16.25,https://radiogearbd.com/product-details/65mm-rubber-wheel-with-metal-rim-4pcs-set-for-robo-soccer,Listed price is for a 4-piece set; unit cost shown is the set price divided by four.
+3,20 x 20 cm PVC frame,1,frame,0.00,0.00,,Self-funded; cost not provided and treated as excluded from estimated cash total.
+4,BTS7960 43 A motor driver module,4,pcs,3.98,15.92,https://store.roboticsbd.com/imugyrocompass/742-motor-driver-43a-bts7960-robotics-bangladesh.html,
+5,LM2596 DC-DC buck converter with display,1,pcs,3.17,3.17,https://store.roboticsbd.com/components/1524-lm2596-dc-dc-step-down-buck-converter-with-digital-tube-display-robotics-bangladesh.html,
+6,12 V 7000 mAh (84 Wh) lithium-ion battery pack with 40 A BMS,1,pcs,22.77,22.77,https://www.daraz.com.bd/products/12v-7000mah-84wh-lithium-ion-rechargeable-battery-pack-with-40a-bms-1000-life-i328284264.html,
+7,ESP32-S3 DevKitC-1 N16R8 development board,1,pcs,8.10,8.10,https://techshopbd.com/product/esp32-s3-devkitc1-n16r8-development-board-dual-usb-type-c,
+8,RadioMaster Pocket M2 ELRS radio controller,1,pcs,71.50,71.50,https://radiomasterrc.com/products/pocket-radio-controller-m2,
+9,RadioMaster ELRS PWM receiver - described as ER6,1,pcs,14.99,14.99,https://radiomasterrc.com/products/er4-2-4ghz-elrs-pwm-receiver,"Project description says ER6, but the linked product is ER4; verify the intended receiver model."
+10,Ball-handling mechanism,1,assembly,0.00,0.00,,Self-funded; cost not provided and treated as excluded from estimated cash total.
+11,WEMON 936 90 W soldering iron kit,1,kit,10.00,10.00,,Included in source list; confirm whether this tool should be counted as a project BOM item or an existing workshop/tool expense.
+TOTAL,,,,,198.50,,"Estimated supplied-cost total; excludes shipping. Supplied line items sum to USD 198.50, which is USD 0.01 below the source stated estimate of USD 198.51."
